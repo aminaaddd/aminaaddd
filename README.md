@@ -28,4 +28,4 @@ I'm a student in Data Engineering & AI.
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/amina-addi) • 💼 Always open to internships or projects!
+📫 [LinkedIn](https://www.linkedin.com/in/amina-addi-3bb890294?originalSubdomain=fr) • 💼 Always open to internships or projects!
