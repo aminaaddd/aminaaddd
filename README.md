@@ -22,8 +22,8 @@ I'm a student in Data Engineering & AI.
 | Intermediate |
 
 ### 🛠️ Tools
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Roboflow](https://img.shields.io/badge/Roboflow-4B0082?style=for-the-badge) | | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-|:--:|:--:|:--:|:--:|
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Roboflow](https://img.shields.io/badge/Roboflow-4B0082?style=for-the-badge) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+|:--:|:--:|:--:|
 | Intermediate | Intermediate | Advanced |
 
 ---
