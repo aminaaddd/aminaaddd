@@ -4,9 +4,6 @@ Hello! I'm Amina
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6FA8DC&width=435&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 
-![3D Contributions](https://github.com/aminaaddd/aminaaddd/blob/main/profile-3d-contrib/profile-night-view.svg)
-
-
 ##  Skills & Tools
 
 ### **Programming Languages**
@@ -46,5 +43,7 @@ Hello! I'm Amina
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aminaaddd&theme=github-compact" />
 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
  [LinkedIn](https://www.linkedin.com/in/amina-addi-3bb890294?originalSubdomain=fr) • Always open to internships or projects!
