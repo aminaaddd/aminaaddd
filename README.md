@@ -1,6 +1,11 @@
-# Hello! I'm Amina
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome!&fontAlignY=35" />
 
-I'm a student in Data Science & AI.
+Hello! I'm Amina
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6FA8DC&width=435&lines=Data+Science+%26+AI+Student;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+
+![3D Contributions](https://github.com/aminaaddd/aminaaddd/blob/main/profile-3d-contrib/profile-night-view.svg)
+
 
 ##  Skills & Tools
 
@@ -38,5 +43,8 @@ I'm a student in Data Science & AI.
 | Advanced | Advanced | Intermediate |
 
 ---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aminaaddd&theme=github-compact" />
+
 
  [LinkedIn](https://www.linkedin.com/in/amina-addi-3bb890294?originalSubdomain=fr) • Always open to internships or projects!
